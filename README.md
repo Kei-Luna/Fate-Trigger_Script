@@ -1,5 +1,7 @@
 # Fate Trigger Script
 
+AES Key: 0xCA9F79249B5CF77906969E43998611FD52D19DCE554F504B5573BF46054F399B
+
 Archive containing the Network Protocol used by Fate Trigger
 
 ## Packet Structure
